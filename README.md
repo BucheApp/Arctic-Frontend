@@ -1,0 +1,29 @@
+#What is this
+This project is a marketplace application. You can buy and sell digital content.
+You can create your own market page as you like.
+
+#Definition
+- User
+  A user is everyone who uses this application.
+- Customer
+  A customer is a users who buys products.
+- Seller
+  A seller is a users who sells products.
+- Market page
+  A market page is a place to buy and sell.
+
+#Planned features
+- Buy and sell [ ]
+  Users can create a market page and buy products.
+- Create market page [ ]
+  Sellers create it easily using simple mouse operation.
+- Rising ranking [ ]
+  Users can check popular products.
+- New arrivals features [ ]
+  Users can check new products.
+- Preview [ ]
+  Customers can preview products before purchasing them.
+
+#Disclaimer
+This application and source code are provided under the MIT License.
+I take no reponsibility for any damage resulting from the use, modification, or distribution of this software.
