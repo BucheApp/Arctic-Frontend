@@ -1,8 +1,15 @@
-# What is this
-This project is a marketplace application. You can buy and sell digital content.
+# Arctic Project
+
+## What is this
+This project is a marketplace application. You can buy and sell **digital content**.
 You can create your own market page as you like.
 
-# Definition
+## Technology
+This application uses React and Vite for the frontend,  
+and Spring Boot for the backend.
+The backend program repository is [here](https://github.com/BucheApp/Arctic-Repository-Backend).
+
+## Definition
 - User
   A user is everyone who uses this application.
 - Customer
@@ -12,7 +19,7 @@ You can create your own market page as you like.
 - Market page
   A market page is a place to buy and sell.
 
-# Planned features
+## Planned features
 - Buy and sell [ ]
   Users can create a market page and buy products.
 - Create market page [ ]
@@ -24,6 +31,7 @@ You can create your own market page as you like.
 - Preview [ ]
   Customers can preview products before purchasing them.
 
-# Disclaimer
+## Disclaimer
 This application and source code are provided under the MIT License.
-I take no reponsibility for any damage resulting from the use, modification, or distribution of this software.
+I take no reponsibility for any damage resulting from the use, modification,
+or distribution of this software.
