@@ -9,13 +9,13 @@ This application uses React and Vite for the frontend, and Spring Boot for the b
 The backend program repository is [here](https://github.com/BucheApp/Arctic-Repository-Backend).
 
 ## Definition
-- User
+- User  
   A user is everyone who uses this application.
-- Customer
+- Customer  
   A customer is a users who buys products.
-- Seller
+- Seller  
   A seller is a users who sells products.
-- Market page
+- Market page 
   A market page is a place to buy and sell.
 
 ## Planned features
