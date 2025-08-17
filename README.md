@@ -35,6 +35,6 @@ The backend program repository is [here](https://github.com/BucheApp/Arctic-Repo
   Customers can preview products before purchasing them.
 
 ## Disclaimer
-This application and source code are provided under the MIT License.
-I take no reponsibility for any damage resulting from the use, modification,
-or distribution of this software.
+This application is provided under the MIT License. The developer shall not be 
+held liable for any consequences arising from the use, modification, 
+distribution, reproduction, or any other actions related to this application. Please use it with caution.
