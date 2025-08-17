@@ -5,8 +5,7 @@ This project is a marketplace application. You can buy and sell **digital conten
 You can create your own market page as you like.
 
 ## Technology
-This application uses React and Vite for the frontend,  
-and Spring Boot for the backend.
+This application uses React and Vite for the frontend, and Spring Boot for the backend.
 The backend program repository is [here](https://github.com/BucheApp/Arctic-Repository-Backend).
 
 ## Definition
@@ -20,15 +19,19 @@ The backend program repository is [here](https://github.com/BucheApp/Arctic-Repo
   A market page is a place to buy and sell.
 
 ## Planned features
-- Buy and sell [ ]
+- Buy and sell  
   Users can create a market page and buy products.
-- Create market page [ ]
+
+- Create market page  
   Sellers create it easily using simple mouse operation.
-- Rising ranking [ ]
+
+- Rising ranking  
   Users can check popular products.
-- New arrivals features [ ]
+
+- New arrivals features   
   Users can check new products.
-- Preview [ ]
+  
+- Preview  
   Customers can preview products before purchasing them.
 
 ## Disclaimer
