@@ -11,11 +11,14 @@ The backend program repository is [here](https://github.com/BucheApp/Arctic-Repo
 ## Definition
 - User  
   A user is everyone who uses this application.
+  
 - Customer  
   A customer is a users who buys products.
+  
 - Seller  
   A seller is a users who sells products.
-- Market page 
+  
+- Market page  
   A market page is a place to buy and sell.
 
 ## Planned features
