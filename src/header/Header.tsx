@@ -1,13 +1,14 @@
 import './Header.css'
 import Search from './Search'
 import UserHeader from './UserHeader'
+import { Link } from "react-router-dom"
 
 function Header() {
   return (
     <>
     <header>
       <div className="flex">
-        <h1><a className="select-none" href="http://localhost:5173">Arctic</a></h1>
+        <h1><Link className="select-none" to="/">Arctic</Link></h1>
         <UserHeader />
       </div>
       <div className="flex">

@@ -1,5 +1,6 @@
 import './Register.css'
-import TextInput from './TextInput'
+import TextInput from '../TextInput'
+import Submit from '../Submit'
 
 function Register() {
   return (
@@ -25,6 +26,9 @@ function Register() {
             <TextInput id="birthdate" type="date" placeholder="生年月日を入力" /><br />
             <TextInput id="occupation" type="text" placeholder="職業を入力" /><br />
             <TextInput id="address" type="text" placeholder="住所を入力" />
+          </div>
+          <div>
+            <Submit />
           </div>
         </form>
       </div>
