@@ -1,0 +1,28 @@
+.textbox {
+    padding: 10px;
+    font-size: 0.9rem;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(220,220,220);
+    outline: none;
+}
+
+.bottom-space {
+    margin-bottom: 10px;
+}
+
+#username {
+    width: 12rem;
+}
+
+#password {
+    width: 15rem;
+}
+
+#address {
+    width: 25rem;
+}
+
+#occupation {
+    width: 10rem;
+}
