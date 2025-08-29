@@ -1,11 +1,18 @@
 import './TextInput.css'
+import React from 'react'
 
-function TextInput({id = "", type = "text", placeholder = ""}) {
-  return (
-    <>
-      <input className="textbox bottom-space" id={id} type={type} placeholder={placeholder} />
-    </>
-  )
+type TextInputProps = {
+  type: string;
+  placeholder: string;
+  id: string;
+  handle?:() => void
+  ref:React.Ref<HTMLInputElement>
 }
 
-export default TextInput
+function TextInput( {ref,handle,...props}:TextInputProps ) {
+  return (
+    <input className="textbox bottom-space" ref={ref} onBlur={handle} {...props} />
+  );
+};
+
+export default TextInput;

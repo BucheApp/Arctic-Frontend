@@ -12,21 +12,29 @@
 }
 
 #username {
-    width: 12rem;
+    width: 50%;
 }
 
 #password {
-    width: 15rem;
+    width: 45%;
 }
 
 #address {
-    width: 25rem;
+    width: 80%;
 }
 
 #occupation {
-    width: 10rem;
+    width: 40%;
 }
 
 #name {
     width: 15rem;
+}
+
+#phone {
+    width: 30%;
+}
+
+#email {
+    width: 50%;
 }
